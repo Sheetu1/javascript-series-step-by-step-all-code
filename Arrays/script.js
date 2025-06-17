@@ -44,9 +44,19 @@
 // Multidimensional Arrays in javascript
 // Array inside array that is called multidimensional array
 
-let arr = [['sheetal',800],['Divyansh',920]]
-console.log(arr[1][0]);
-console.log(arr[0][0] = 'hello');
+// let arr = [['sheetal',800],['Divyansh',920]]
+// console.log(arr[1][0]);
+// console.log(arr[0][0] = 'hello');
+
+//  create Tic Tac Toe game using array
+
+const TicTacToe = [
+    ['X',null,null],
+    [null,null,'0'],
+    ['0',null,'X']
+]
+console.log(TicTacToe[1][2]);
+
 
 
 
