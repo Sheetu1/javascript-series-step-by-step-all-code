@@ -50,12 +50,12 @@
 
 //  create Tic Tac Toe game using array
 
-const TicTacToe = [
-    ['X',null,null],
-    [null,null,'0'],
-    ['0',null,'X']
-]
-console.log(TicTacToe[1][2]);
+// const TicTacToe = [
+//     ['X',null,null],
+//     [null,null,'0'],
+//     ['0',null,'X']
+// ]
+// console.log(TicTacToe[1][2]);
 
 
 
