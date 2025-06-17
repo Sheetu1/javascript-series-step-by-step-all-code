@@ -12,10 +12,10 @@
 // FruitsName[4] = "Dates"
 // console.log(FruitsName);
 
-let colors = ['red','blue','green','pink','purple']
-let Animals = ['Dog','rat','mouse']
-let arr = [1,2,3,4,5]
-console.log(colors);
+// let colors = ['red','blue','green','pink','purple']
+// let Animals = ['Dog','rat','mouse']
+// let arr = [1,2,3,4,5]
+// console.log(colors);
 // colors.push('green','orange')
 // console.log(colors);
 // colors.pop()
@@ -26,7 +26,7 @@ console.log(colors);
 // console.log(colors);
 // concat original aray ko modify nhi krta h 
 // colors.concat(Animals)
-console.log(colors);
+// console.log(colors);
 // console.log(colors.indexOf('red'));
 // colors.includes('pink')
 // console.log(colors);
@@ -34,10 +34,25 @@ console.log(colors);
 // console.log(colors);
 // colors.sort()
 // console.log(colors);
-colors.slice(3,4)
-console.log(colors);
-colors.splice(2,1,'gray')
-console.log(colors);
+// colors.slice(3,4)
+// console.log(colors);
+// colors.splice(2,1,'gray')
+// console.log(colors);
+
+
+
+// Multidimensional Arrays in javascript
+// Array inside array that is called multidimensional array
+
+let arr = [['sheetal',800],['Divyansh',920]]
+console.log(arr[1][0]);
+console.log(arr[0][0] = 'hello');
+
+
+
+
+
+
 
 
 
